@@ -10,7 +10,17 @@ Things related to education
 * General
   * Books
      * [Democracy and Education - John Dewey](https://www.gutenberg.org/files/852/852-h/852-h.htm)
+	   * Concepts Covered/Themes
+	     * Philosophy
+		 * Politics
+		 * Classics
        * Reviews
 	     * https://www.jstor.org/stable/20462247?seq=1#page_scan_tab_contents
 	   * Quotes
 	     * “Were all instructors to realize that the quality of mental process, not the production of correct answers, is the measure of educative growth something hardly less than a revolution in teaching would be worked.” 
+  * Book Lists
+    * https://github.com/hackerkid/Mind-Expanding-Books#education
+  * Instruction
+    * Games
+	  * https://github.com/yrgo/awesome-eg#readme
+  
