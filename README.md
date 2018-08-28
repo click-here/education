@@ -2,5 +2,5 @@
 Things related to education
 
 * Math
- * Podcasts
+  * Podcasts
    * http://teachbetter.co/blog/2017/01/02/tbp-episode-45/
