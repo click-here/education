@@ -14,6 +14,17 @@ Things related to education
       * **["Markets in Education" with David Schmidtz](https://soundcloud.com/hayekprogrampodcast/markets-in-education-with-david-schmidtz)**
       * [What Should School Choice Look Like?](https://cdn.cato.org/archive-2018/cpfa-04-19-18.mp3)
       * [Nat Malkus on the DC Public Schools graduation scandal](http://www.aei.org/multimedia/banter-311-nat-malkus-on-the-dc-public-schools-graduation-scandal/)
+      * [The Case against Education: Why the Education System Is a Waste of Time and Money](https://cdn.cato.org/archive-2018/cbfa-01-31-18.mp3)
+      * [School Of Public Opinion: K–12 Schools In The United States](https://soundcloud.com/hoover-institution/school-of-public-opinion-k-12)
+      * [School Choice and Democracy: Friends or Foes?](https://cdn.cato.org/archive-2017/cpfa-07-26-17.mp3)
+      * [Private Schooling for Everyone](https://www.libertarianism.org/media/free-thoughts/private-schooling-everyone)
+      * [Teaching School Choice to the American Education System](https://www.libertarianism.org/media/free-thoughts/teaching-school-choice-american-education-system)
+      * [Is America’s Education Problem Really Just a Teacher Problem?](http://freakonomics.com/podcast/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
+
+      
+* US Public Schools      
+  * Finance
+    * [Census Data](https://www.census.gov/programs-surveys/school-finances.html)
 * SCOTUS
   * [Janus v. AFSCME](https://en.wikipedia.org/wiki/Janus_v._AFSCME)
 * Research
