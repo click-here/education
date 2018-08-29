@@ -6,6 +6,7 @@ Things related to education
     * https://en.wikipedia.org/wiki/Singapore_math
   * Podcasts
     * http://teachbetter.co/blog/2017/01/02/tbp-episode-45/
+    * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
 
 * General
   * Books
