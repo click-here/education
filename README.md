@@ -4,6 +4,10 @@ Things related to education
 * Math
   * Instruction Methods
     * https://en.wikipedia.org/wiki/Singapore_math
+  * Subjects
+    * Statistics
+      * Books
+        * [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
 * Podcasts
 	* Education Specific
 	  * [teachbetter.co](http://teachbetter.co)
