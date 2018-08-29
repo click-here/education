@@ -5,8 +5,11 @@ Things related to education
   * Instruction Methods
     * https://en.wikipedia.org/wiki/Singapore_math
   * Podcasts
-    * [Inspiring Students with Steven Strogatz](http://teachbetter.co/blog/2017/01/02/tbp-episode-45/)
-    * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
+    * Education Specific
+      * [teachbetter.co](http://teachbetter.co)
+    * Individual Podcasts
+      * [Inspiring Students with Steven Strogatz](http://teachbetter.co/blog/2017/01/02/tbp-episode-45/)
+      * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
 
 * General
   * Books
