@@ -5,7 +5,7 @@ Things related to education
   * Instruction Methods
     * https://en.wikipedia.org/wiki/Singapore_math
   * Subjects
-    * Statistics
+    * Statistics/Probability
       * Books
         * [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
 * Podcasts
