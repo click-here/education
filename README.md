@@ -4,22 +4,22 @@ Things related to education
 * Math
   * Instruction Methods
     * https://en.wikipedia.org/wiki/Singapore_math
-  * Podcasts
-    * Education Specific
-      * [teachbetter.co](http://teachbetter.co)
-    * Individual Podcasts
-      * [Inspiring Students with Steven Strogatz](http://teachbetter.co/blog/2017/01/02/tbp-episode-45/)
-      * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
-      * [The debate over “no excuses” charter schools, explained](https://art19.com/shows/the-weeds/episodes/4974e21a-e6aa-474a-909f-17e70401ae1e/)
-      * **["Markets in Education" with David Schmidtz](https://soundcloud.com/hayekprogrampodcast/markets-in-education-with-david-schmidtz)**
-      * [What Should School Choice Look Like?](https://cdn.cato.org/archive-2018/cpfa-04-19-18.mp3)
-      * [Nat Malkus on the DC Public Schools graduation scandal](http://www.aei.org/multimedia/banter-311-nat-malkus-on-the-dc-public-schools-graduation-scandal/)
-      * [The Case against Education: Why the Education System Is a Waste of Time and Money](https://cdn.cato.org/archive-2018/cbfa-01-31-18.mp3)
-      * [School Of Public Opinion: K–12 Schools In The United States](https://soundcloud.com/hoover-institution/school-of-public-opinion-k-12)
-      * [School Choice and Democracy: Friends or Foes?](https://cdn.cato.org/archive-2017/cpfa-07-26-17.mp3)
-      * [Private Schooling for Everyone](https://www.libertarianism.org/media/free-thoughts/private-schooling-everyone)
-      * [Teaching School Choice to the American Education System](https://www.libertarianism.org/media/free-thoughts/teaching-school-choice-american-education-system)
-      * [Is America’s Education Problem Really Just a Teacher Problem?](http://freakonomics.com/podcast/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
+* Podcasts
+	* Education Specific
+	  * [teachbetter.co](http://teachbetter.co)
+	* Individual Podcasts
+	  * [Inspiring Students with Steven Strogatz](http://teachbetter.co/blog/2017/01/02/tbp-episode-45/)
+	  * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
+	  * [The debate over “no excuses” charter schools, explained](https://art19.com/shows/the-weeds/episodes/4974e21a-e6aa-474a-909f-17e70401ae1e/)
+	  * **["Markets in Education" with David Schmidtz](https://soundcloud.com/hayekprogrampodcast/markets-in-education-with-david-schmidtz)**
+	  * [What Should School Choice Look Like?](https://cdn.cato.org/archive-2018/cpfa-04-19-18.mp3)
+	  * [Nat Malkus on the DC Public Schools graduation scandal](http://www.aei.org/multimedia/banter-311-nat-malkus-on-the-dc-public-schools-graduation-scandal/)
+	  * [The Case against Education: Why the Education System Is a Waste of Time and Money](https://cdn.cato.org/archive-2018/cbfa-01-31-18.mp3)
+	  * [School Of Public Opinion: K–12 Schools In The United States](https://soundcloud.com/hoover-institution/school-of-public-opinion-k-12)
+	  * [School Choice and Democracy: Friends or Foes?](https://cdn.cato.org/archive-2017/cpfa-07-26-17.mp3)
+	  * [Private Schooling for Everyone](https://www.libertarianism.org/media/free-thoughts/private-schooling-everyone)
+	  * [Teaching School Choice to the American Education System](https://www.libertarianism.org/media/free-thoughts/teaching-school-choice-american-education-system)
+	  * [Is America’s Education Problem Really Just a Teacher Problem?](http://freakonomics.com/podcast/is-americas-education-problem-really-just-a-teacher-problem-a-new-freakonomics-radio-podcast/)
 
       
 * US Public Schools      
