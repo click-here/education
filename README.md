@@ -13,7 +13,12 @@ Things related to education
       * [The debate over “no excuses” charter schools, explained](https://art19.com/shows/the-weeds/episodes/4974e21a-e6aa-474a-909f-17e70401ae1e/)
       * **["Markets in Education" with David Schmidtz](https://soundcloud.com/hayekprogrampodcast/markets-in-education-with-david-schmidtz)**
       * [What Should School Choice Look Like?](https://cdn.cato.org/archive-2018/cpfa-04-19-18.mp3)
-
+      * [Nat Malkus on the DC Public Schools graduation scandal](http://www.aei.org/multimedia/banter-311-nat-malkus-on-the-dc-public-schools-graduation-scandal/)
+* SCOTUS
+  * [Janus v. AFSCME](https://en.wikipedia.org/wiki/Janus_v._AFSCME)
+* Research
+  * Charter Schools
+    * [National Charter School Study 2013 - CREDO - Stanford University](http://credo.stanford.edu/documents/NCSS%202013%20Final%20Draft.pdf)
 * General
   * Books
      * [Democracy and Education - John Dewey](https://www.gutenberg.org/files/852/852-h/852-h.htm)
