@@ -10,6 +10,7 @@ Things related to education
     * Individual Podcasts
       * [Inspiring Students with Steven Strogatz](http://teachbetter.co/blog/2017/01/02/tbp-episode-45/)
       * ["Education, Inequality, and Incentives" with Roland G. Fryer, Jr](https://soundcloud.com/hayekprogrampodcast/education-inequality-and-incentives-with-roland-g-fryer-jr)
+      * [The debate over “no excuses” charter schools, explained](https://art19.com/shows/the-weeds/episodes/4974e21a-e6aa-474a-909f-17e70401ae1e/)
 
 * General
   * Books
