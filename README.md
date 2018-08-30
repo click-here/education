@@ -1,9 +1,10 @@
 # education
 Things related to education
 
-* Math
-  * Instruction Methods
-    * https://en.wikipedia.org/wiki/Singapore_math
+* Pedagogy
+  * Math
+    * Instruction Methods
+      * https://en.wikipedia.org/wiki/Singapore_math
   * Subjects
     * Statistics/Probability
       * Books
