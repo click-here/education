@@ -2,6 +2,8 @@
 Things related to education
 
 * Pedagogy
+  * Video 
+    * [Designing Curriculum That Treats Students as Sense-Makers](https://www.bigmarker.com/GlobalMathDept/Designing-Curriculum-That-Treats-Students-as-Sense-Makers)
   * Math
     * Instruction Methods
       * https://en.wikipedia.org/wiki/Singapore_math
