@@ -35,6 +35,9 @@ Things related to education
 * SCOTUS
   * [Janus v. AFSCME](https://en.wikipedia.org/wiki/Janus_v._AFSCME)
 * Research
+  * Early Childhood Development
+    * Psycholinguistics
+      * https://en.wikipedia.org/wiki/Syntactic_bootstrapping
   * Charter Schools
     * [National Charter School Study 2013 - CREDO - Stanford University](http://credo.stanford.edu/documents/NCSS%202013%20Final%20Draft.pdf)
 * General
