@@ -56,4 +56,6 @@ Things related to education
   * Instruction
     * Games
 	  * https://github.com/yrgo/awesome-eg#readme
+  * Software
+    * https://edu.google.com/
   
