@@ -2,6 +2,8 @@
 Things related to education
 
 * Pedagogy
+  * General
+    * https://en.wikipedia.org/wiki/Waldorf_education
   * Video 
     * [Designing Curriculum That Treats Students as Sense-Makers](https://www.bigmarker.com/GlobalMathDept/Designing-Curriculum-That-Treats-Students-as-Sense-Makers)
   * Math
