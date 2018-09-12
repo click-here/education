@@ -1,6 +1,7 @@
 # education
 Things related to education
 
+* [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 * Pedagogy
   * General
     * https://en.wikipedia.org/wiki/Waldorf_education
