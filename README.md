@@ -38,6 +38,8 @@ Things related to education
 * SCOTUS
   * [Janus v. AFSCME](https://en.wikipedia.org/wiki/Janus_v._AFSCME)
 * Research
+  * Federal Aid Impact
+    * [Unintended Consequences of Federal Student Aid Policies](https://www.jstor.org/stable/20079996)
   * Early Childhood Development
     * Psycholinguistics
       * https://en.wikipedia.org/wiki/Syntactic_bootstrapping
@@ -51,7 +53,7 @@ Things related to education
 		 * Politics
 		 * Classics
        * Reviews
-	     * https://www.jstor.org/stable/20462247?seq=1#page_scan_tab_contents
+	     * https://www.jstor.org/stable/20462247
 	   * Quotes
 	     * “Were all instructors to realize that the quality of mental process, not the production of correct answers, is the measure of educative growth something hardly less than a revolution in teaching would be worked.” 
   * Book Lists
