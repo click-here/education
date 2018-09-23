@@ -35,6 +35,8 @@ Things related to education
 * US Public Schools      
   * Finance
     * [Census Data](https://www.census.gov/programs-surveys/school-finances.html)
+* Documentary
+  * [School Inc.](https://www.youtube.com/watch?v=QrDfCy5Q9wI)
 * SCOTUS
   * [Janus v. AFSCME](https://en.wikipedia.org/wiki/Janus_v._AFSCME)
 * Research
