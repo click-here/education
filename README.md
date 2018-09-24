@@ -70,4 +70,7 @@ Things related to education
   * Software
     * https://edu.google.com/
 
-  
+ * History
+   * Outside the US
+     * Korea
+       * [Hagwon ban](https://en.wikipedia.org/wiki/Hagwon#History_and_regulations)
