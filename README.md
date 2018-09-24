@@ -48,6 +48,8 @@ Things related to education
   * Charter Schools
     * [National Charter School Study 2013 - CREDO - Stanford University](http://credo.stanford.edu/documents/NCSS%202013%20Final%20Draft.pdf)
 * General
+  * Prolific Educators
+    * [Jaime Escalante](https://en.wikipedia.org/wiki/Jaime_Escalante)
   * Books
      * [Democracy and Education - John Dewey](https://www.gutenberg.org/files/852/852-h/852-h.htm)
 	   * Concepts Covered/Themes
